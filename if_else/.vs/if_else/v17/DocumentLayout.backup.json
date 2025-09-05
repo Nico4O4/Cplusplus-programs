@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\if_else\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3142E-AE2F-4052-ACAE-02D8611ECB23}|if_else\\if_else.vcxproj|C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\if_else\\if_else\\if_else.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA3142E-AE2F-4052-ACAE-02D8611ECB23}|if_else\\if_else.vcxproj|solutionrelative:if_else\\if_else.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "if_else.cpp",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\if_else\\if_else\\if_else.cpp",
+              "RelativeDocumentMoniker": "if_else\\if_else.cpp",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\if_else\\if_else\\if_else.cpp*",
+              "RelativeToolTip": "if_else\\if_else.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-05T20:19:30.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
