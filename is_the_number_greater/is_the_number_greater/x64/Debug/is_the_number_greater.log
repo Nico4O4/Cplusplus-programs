@@ -1,2 +1,2 @@
 ﻿  is_the_number_greater.cpp
-  is_the_number_greater.vcxproj -> C:\Users\nicop\Desktop\C++ Projekte\is_the_number_greater\x64\Debug\is_the_number_greater.exe
+C:\Users\nicop\Desktop\C++ Projekte\is_the_number_greater\is_the_number_greater\is_the_number_greater.cpp(28,5): error C2181: Ungültiges "else" ohne zugehöriges "if"
