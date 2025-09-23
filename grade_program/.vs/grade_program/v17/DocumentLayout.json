@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\grade_program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDCDDC5-E438-4902-AD35-43B31C8E07CC}|grade_program\\grade_program.vcxproj|C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\grade_program\\grade_program\\grade_program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CDCDDC5-E438-4902-AD35-43B31C8E07CC}|grade_program\\grade_program.vcxproj|solutionrelative:grade_program\\grade_program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "grade_program.cpp",
+              "DocumentMoniker": "C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\grade_program\\grade_program\\grade_program.cpp",
+              "RelativeDocumentMoniker": "grade_program\\grade_program.cpp",
+              "ToolTip": "C:\\Users\\nicop\\Desktop\\C\u002B\u002B Projekte\\grade_program\\grade_program\\grade_program.cpp",
+              "RelativeToolTip": "grade_program\\grade_program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T12:02:54.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
