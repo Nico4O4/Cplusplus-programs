@@ -1,0 +1,6 @@
+﻿  training_1.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 119 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\nicop\Desktop\C++ Projekte NO GHUB\training_1\training_1\training_1.cpp(26): error C4700: Die nicht initialisierte lokale Variable "user_input_paswd" wurde verwendet.
+LINK : fatal error LNK1257: Fehler bei Codegenerierung.
