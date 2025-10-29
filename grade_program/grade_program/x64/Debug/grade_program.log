@@ -1,4 +1,0 @@
-﻿  grade_program.cpp
-C:\Users\nicop\Desktop\C++ Projekte\grade_program\grade_program\grade_program.cpp(17,17): warning C4305: "return": Verkürzung von "int" in "char"
-C:\Users\nicop\Desktop\C++ Projekte\grade_program\grade_program\grade_program.cpp(17,17): warning C4309: "return": Verkürzung eines konstanten Wertes
-  grade_program.vcxproj -> C:\Users\nicop\Desktop\C++ Projekte\grade_program\x64\Debug\grade_program.exe
