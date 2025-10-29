@@ -45,5 +45,6 @@ int main() {
 // STATEMENTS sind getrennt markiert durch -> ;
 //merken: C++ läuft von oben bis unten mit if / else / schleifen kann man den fluss ändern / anhalten / beenden
 
+//ist ein traingsprojekt kann gerne genutzt werden :)
 
 //coded by: Nico4O4
